@@ -1,0 +1,7 @@
+pyside6
+sqlalchemy
+python-dotenv
+pywin32
+openai
+pypdf
+python-docx
